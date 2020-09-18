@@ -16,8 +16,11 @@
 
 ### HyperLinks
 
-[Google]("https//google.com")
-![image]("https://image.flaticon.com/icons/svg/2919/2919600.svg")
+[Google](https//google.com)
+
+
+
+![image](https://image.flaticon.com/icons/svg/2919/2919600.svg)
 
 ### table
 SNO | head1 | head2
@@ -41,6 +44,6 @@ printf("SDfg")
 }"
 ```
 
-Hello
------
+> Hello
+
 
